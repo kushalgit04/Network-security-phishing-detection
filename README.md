@@ -93,5 +93,3 @@ python push_data.py
 
 ---
 
-
-**Your Name** — learning MLOps, one pipeline stage at a time. Feel free to connect on [LinkedIn](#) or check out more projects on [GitHub](#).
